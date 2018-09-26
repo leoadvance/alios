@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "/Users/LEO/.aos/AliOS-Things/kernel"
+		}
+	],
+	"settings": {
+		"aliosStudio.inner.yosBin": "aos",
+		"aliosStudio.isAosSource": false,
+		"aliosStudio.hardware.board": "esp32devkitc",
+		"aliosStudio.name": "alios",
+		"aliosStudio.sdkPath": "/Users/LEO/.aos/AliOS-Things"
+	}
+}
